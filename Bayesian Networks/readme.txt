@@ -1,4 +1,4 @@
-Synella Gonzales & Anthony Panetta
+Synella Gonzales & Allegra Panetta
 
 Files:  main.py
         BayesNet.py
