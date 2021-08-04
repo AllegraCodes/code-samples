@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Synella Gonzales & Anthony Panetta
+Synella Gonzales & Allegra Panetta
 Project 3
 """
 
