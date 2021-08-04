@@ -3,7 +3,7 @@ Part 6
 Main function that reads in arguments from the command line.
 Command line arguments: network file, query file, and # samples.
 
-Synella Gonzales & Anthony Panetta
+Synella Gonzales & Allegra Panetta
 Python 3.7.0
 """
 
