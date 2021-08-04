@@ -3,7 +3,7 @@ Part 1
 Includes BayesNet and Node classes to form Bayesian networks
 and functions to build and sample the networks.
 
-Synella Gonzales & Anthony Panetta
+Synella Gonzales & Allegra Panetta
 Python 3.7.0
 """
 
